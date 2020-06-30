@@ -6,4 +6,4 @@ Model 1 : Functional Model with Skip Connection
 Model 2 : Sequential CNN Model
 
 # Results
-
+![Alt text](https://github.com/Pathakvishnu/Human-Activity-Recognition-/blob/master/result.PNG?raw=true "Title")
